@@ -31,7 +31,7 @@ npm run dev
 ## 🎨 커스터마이징
 
 - **카페명**: `src/App.jsx`에서 `Cozy Café` 변경
-- **메뉴 데이터**: `src/App.jsx`의 `menuItems` 배열 수정
+- **메뉴 데이터**: `menuItems` 배열 수정
 - **이미지**: `public/images/` 폴더 교체
 - **색상**: `tailwind.config.js`의 `coffee` 팔레트 수정
-- **연락처**: `src/App.jsx` Location 섹션 수정
+- **연락처**: App.jsx Location 섹션 수정
